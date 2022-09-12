@@ -14,7 +14,7 @@ My implementation of some useful C functions and some additional ones to use it 
 - Clone libft into your project folder
 
 ```sh
-git clone https://(https://github.com/zeynepssasmaz/Libft)
+git clone https://github.com/Yunkeee/Libft.git
 ```
 
 - Run make inside libft folder (make rules: all, clean, fclean, re)
